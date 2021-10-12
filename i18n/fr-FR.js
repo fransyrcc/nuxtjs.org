@@ -43,10 +43,6 @@ export default {
     license: 'Nuxt est un framework open source sous license MIT.'
   },
   sidebar: {
-    partners: {
-      title: 'Partenaires',
-      button: 'Nous soutenir'
-    },
     ads: {
       fallback: {
         title: 'Nuxt a besoin de vous !',
