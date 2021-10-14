@@ -64,10 +64,6 @@ export default {
   modules: {
     search: 'Search a module (name, category, username, etc.)',
     sort_by: 'Sort by',
-    sort_fields: {
-      downloads: 'Downloads',
-      stars: 'Stars'
-    },
     loading: 'Loading...',
     error: 'An error occured while fetching modules.'
   },
@@ -162,7 +158,11 @@ export default {
     seconds: 'seconds',
     copied: 'Copied',
     watch_video: 'Watch video',
-    multiple_authors: 'Multiple Authors'
+    multiple_authors: 'Multiple Authors',
+    download: 'Download',
+    downloads: 'Downloads',
+    star: 'Star',
+    stars: 'Stars'
   },
   iso: 'en'
 }
